@@ -40,8 +40,6 @@ posit.co
 
 Создан репозиторий github mirea-practice
 
-![](./Images/2.png)
-
 ### Шаг 3. Создание проекта в RStudio и коммит изменений
 
 Создан проект LAB_0
